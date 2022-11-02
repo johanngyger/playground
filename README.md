@@ -1,1 +1,1 @@
-gitsign intellij
+gitsign terminal 2

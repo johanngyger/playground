@@ -1,1 +1,1 @@
-gitsign terminal 2
+gitsign terminal 3

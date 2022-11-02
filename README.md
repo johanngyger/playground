@@ -1,1 +1,1 @@
-gitsign
+gitsign intellij
